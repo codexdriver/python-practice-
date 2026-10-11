@@ -33,7 +33,7 @@ This is a basic calculator program written in Python. It performs arithmetic ope
 4. Run the calculator program:
 
 ```bash
-python marks.py
+python calculator.py
 ```
 
 ### 🎯 Learning Goal
