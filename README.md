@@ -1,5 +1,4 @@
-# python-practice-
-My Python programs and beginner practice
+
 # Python Practice 🐍
 
 Welcome to my Python Practice repository!
